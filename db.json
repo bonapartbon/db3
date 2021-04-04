@@ -1,0 +1,90 @@
+{
+    "headsetLogitech": [
+        {
+            "id": 8,
+            "img": "../assets/img/gpro-x-head.png",
+            "name": "Logitech G Pro X Wireless Gaming Headset",
+            "price": 130
+        },
+        {
+            "id": 9,
+            "img": "../assets/img/g733-b.png",
+            "name": "Logitech G733 Wireless Gaming Headset Black",
+            "price": 160
+        },
+        {
+            "id": 10,
+            "img": "../assets/img/g733-w.png",
+            "name": "Logitech G733 Wireless Gaming Headset White",
+            "price": 160
+        }
+    ],
+    "headsetHyperX": [
+        {
+            "id": 12,
+            "img": "../assets/img/cloud-flight.png",
+            "name": "HyperX Cloud Flight",
+            "price": 130
+        },
+        {
+            "id": 13,
+            "img": "../assets/img/stinger.png",
+            "name": " HyperX Cloud Stinger Wireless 7.1",
+            "price": 80
+        },
+        {
+            "id": 14,
+            "img": "../assets/img/cloudII.jpeg",
+            "name": "HyperX Cloud II",
+            "price": 100
+        },
+        {
+            "id": 15,
+            "img": "../assets/img/cloud-alpha.png",
+            "name": "HyperX Cloud Alpha",
+            "price": 100
+        },
+        {
+            "id": 16,
+            "img": "../assets/img/orbit-s.png",
+            "name": "HyperX Orbit S",
+            "price": 365
+        }
+    ],
+    "mousepadSteelseries": [
+        {
+            "id": 21,
+            "img": "../assets/img/qck-edge-l.png",
+            "name": " Steelseries Qck Edge L",
+            "price": 25
+        },
+        {
+            "id": 22,
+            "img": "../assets/img/qck.xl.jpg",
+            "name": "Steelseries Qck Prism Cloth XL",
+            "price": 70
+        }
+    ],
+    "mousepadZowie": [
+        {
+            "id": 33,
+            "img": "../assets/img/gsr.jpg",
+            "name": "Zowie G-SR",
+            "price": 55
+        }
+    ],
+    "mousepadHyperX": [
+        {
+            "id": 17,
+            "img": "../assets/img/fury-s-l.jpg",
+            "name": "HyperX Fury S Speed Large",
+            "price": 30
+        },
+        {
+            "id": 18,
+            "img": "../assets/img/fury-s-xl.png",
+            "name": "HyperX Fury S Speed Extra Large",
+            "price": 40
+        }
+    ]
+}
